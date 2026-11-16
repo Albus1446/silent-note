@@ -4,9 +4,9 @@ Quietly send highlights, underlines, annotation comments and notes to [Claude Co
 
 **Triggers**
 - Type `@claude <instruction>` in an annotation comment (or at the start of a child note) — runs automatically ~4 s after you stop typing; the marker becomes `#claude` when done.
-- Right-click an annotation in the reader → *Ask Claude Code*.
+**- Right-click an annotation in the reader → *Ask Claude Code*.
 - Select text in the reader → *Ask Claude*.
-- Right-click items in the library → *Ask Claude Code*.
+- Right-click items in the library → *Ask Claude Code*.**
 
 Requires the `claude` CLI (logged in). Settings live under `extensions.claude-code.*` in the Config Editor.
 
