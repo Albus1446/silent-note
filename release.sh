@@ -4,7 +4,7 @@
 set -euo pipefail
 cd "${0:A:h}"
 V=${1:?usage: ./release.sh <version>}
-REPO=Albus1446/zotero-claude-code
+REPO=Albus1446/silent-note
 ID=claude-code@zotero.local
 
 python3 - "$V" <<'PY'

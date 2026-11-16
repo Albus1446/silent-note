@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Claude Code for Zotero",
-  "version": "0.2.1",
+  "version": "0.5.0",
   "description": "Quietly send annotations, highlights and notes to Claude Code; answers come back as child notes.",
   "author": "Albus1446",
   "applications": {
@@ -9,8 +9,8 @@
       "id": "claude-code@zotero.local",
       "strict_min_version": "7.0.0",
       "strict_max_version": "10.*",
-      "update_url": "https://github.com/Albus1446/zotero-claude-code/releases/latest/download/updates.json"
+      "update_url": "https://github.com/Albus1446/silent-note/releases/latest/download/updates.json"
     }
   },
-  "homepage_url": "https://github.com/Albus1446/zotero-claude-code"
+  "homepage_url": "https://github.com/Albus1446/silent-note"
 }

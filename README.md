@@ -10,6 +10,6 @@ Quietly send highlights, underlines, annotation comments and notes to [Claude Co
 
 Requires the `claude` CLI (logged in). Settings live under `extensions.claude-code.*` in the Config Editor.
 
-Install the `.xpi` from the [latest release](https://github.com/Albus1446/zotero-claude-code/releases/latest); later versions auto-update.
+Install the `.xpi` from the [latest release](https://github.com/Albus1446/silent-note/releases/latest); later versions auto-update.
 
 Release: `./release.sh <version>`.
