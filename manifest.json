@@ -9,8 +9,8 @@
       "id": "claude-code@zotero.local",
       "strict_min_version": "7.0.0",
       "strict_max_version": "10.*",
-      "update_url": "https://github.com/Albus1446/silent-note/releases/latest/download/updates.json"
+      "update_url": "https://github.com/Albus1446/silent-notes/releases/latest/download/updates.json"
     }
   },
-  "homepage_url": "https://github.com/Albus1446/silent-note"
+  "homepage_url": "https://github.com/Albus1446/silent-notes"
 }
